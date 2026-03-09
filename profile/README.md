@@ -1,12 +1,9 @@
-## Hi there 👋
+# PFE Project Organization
 
-<!--
+This organization contains the repositories developed as part of a **Final Year Project (PFE)**.
 
-**Here are some ideas to get you started:**
+The goal is to centralize and structure the different components of the project in a clear and maintainable way. Each repository represents a specific part of the system (such as the frontend, backend, or supporting services).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Although this is an academic project, the structure follows **professional software development practices**, including modular architecture, version control, and project documentation.
+
+This organization allows the project to be easily explored, understood, and evaluated.
